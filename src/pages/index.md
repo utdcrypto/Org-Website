@@ -7,7 +7,10 @@ banner:
       is_scrolly: false
       label: Learn More
       url: /no-sidebar
-  subtitle: "We connect and train you with industry professionals and technical\r workshops so that you \rcan learn more about this rapidly-growing and lucrative field. We're open to both beginners and experts."
+  subtitle: |-
+    We connect and train you with industry professionals and technical
+     workshops so that you 
+    can learn more about this rapidly-growing and lucrative field
   title: Welcome to UTD Blockchain
 sections:
   - component: Features
