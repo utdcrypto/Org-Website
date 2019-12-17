@@ -7,7 +7,7 @@ banner:
       is_scrolly: false
       label: Learn More
       url: /no-sidebar
-  subtitle: "Welcome to UTD's official Blockchain Club. We connect and train you with industry professionals and technical\r workshops so that you \rcan learn more about this rapidly-growing and lucrative field. We're open to both beginners and experts."
+  subtitle: "We connect and train you with industry professionals and technical\r workshops so that you \rcan learn more about this rapidly-growing and lucrative field. We're open to both beginners and experts."
   title: Welcome to UTD Blockchain
 sections:
   - component: Features
