@@ -17,7 +17,7 @@ sections:
     features:
       - description: >-
           We will update you about our upcoming events, primarily focusing
-          around our EmTeck hackathon and workshop. We will also update our
+          around our EmTech Hackathon and workshop. We will also update our
           members on industry and research opportunities that companies reach
           out to us for.
         icon:
