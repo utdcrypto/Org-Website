@@ -16,10 +16,10 @@ sections:
   - component: Features
     features:
       - description: >-
-          Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-          Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
-          ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet
-          consectetur. Morbi libero orci, consectetur in odio maximus felis.
+          We will update you about our upcoming events, primarily focusing
+          around our EmTeck hackathon and workshop. We will also update our
+          members on industry and research opportunities that companies reach
+          out to us for.
         icon:
           enabled: true
           icon: fa-area-chart
