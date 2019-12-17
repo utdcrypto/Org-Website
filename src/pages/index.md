@@ -26,10 +26,13 @@ sections:
           style: style1
         title: UTD Surge Mentorship Program
       - description: >-
-          Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-          Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
-          ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet
-          consectetur. Morbi libero orci, consectetur in odio maximus felis.
+          EmTechHack is designed to inspire students to use the latest
+          development technologies - including blockchain, AI, machine learning,
+          AR, VR, and computer vision - to build something new. However, you
+          don't have to be a developer to participate. Our goal is to bring
+          together designers, entrepreneurs, and developers so whether you're a
+          veteran developer or a budding designer, EmTechHack has a place for
+          you.
         icon:
           enabled: true
           icon: fa-pie-chart
