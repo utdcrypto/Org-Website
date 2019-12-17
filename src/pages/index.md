@@ -24,7 +24,7 @@ sections:
           enabled: true
           icon: fa-area-chart
           style: style1
-        title: UTD Surge
+        title: UTD Surge Mentorship Program
       - description: >-
           Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
           Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
