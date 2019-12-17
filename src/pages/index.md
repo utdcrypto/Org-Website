@@ -61,7 +61,7 @@ sections:
       libero orci, consectetur in odio maximus felis. Lorem ipsum ullamcorper
       laoreet, lectus arcu pulvinar lorem ipsum interdum sed tempus sagittis
       lorem feugiat. In fringilla diet consectetur.
-    title: Ultrices ante sagittis nunc senectus libero netus
+    title: Sign Up To Our Newsletter To Get Updated
     type: cta
   - component: Posts
     section_id: posts
