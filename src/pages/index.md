@@ -24,7 +24,7 @@ sections:
           enabled: true
           icon: fa-area-chart
           style: style1
-        title: Integer vitae consequat sed magna feugiat
+        title: UTD Surge
       - description: >-
           Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
           Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
@@ -34,7 +34,7 @@ sections:
           enabled: true
           icon: fa-pie-chart
           style: style2
-        title: Phasellus libero eu sed augue gravida
+        title: The Emerging Technology Hackathon
       - description: >-
           Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
           Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
@@ -44,7 +44,7 @@ sections:
           enabled: true
           icon: fa-cube
           style: style3
-        title: Lacus ultricies sagittis mi dui dapibus
+        title: Workshops and Tech Talks
     section_id: features
     type: features
   - actions:
