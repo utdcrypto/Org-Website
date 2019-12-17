@@ -1,5 +1,5 @@
 ---
-title: home
+title: Home
 banner:
   actions:
     - is_huge: true
