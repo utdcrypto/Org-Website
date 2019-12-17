@@ -66,7 +66,7 @@ sections:
   - component: Posts
     section_id: posts
     subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
-    title: Convallis amet interdum
+    title: Companies We've Worked With
     type: posts
 menus:
   main:
