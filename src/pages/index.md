@@ -68,7 +68,9 @@ sections:
     type: cta
   - component: Posts
     section_id: posts
-    subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
+    subtitle: >-
+      Here's a list of some of the companies that we've partnered with in the
+      past
     title: Companies We've Worked With
     type: posts
 menus:
