@@ -3,10 +3,10 @@ title: Home
 banner:
   actions:
     - is_huge: true
-      is_primary: false
+      is_primary: true
       is_scrolly: false
-      label: Learn More
-      url: /no-sidebar
+      label: Join Our Discord
+      url: 'https://discord.gg/A4vzfg5'
   subtitle: |-
     We connect and train you with industry professionals and technical
      workshops so that you 
