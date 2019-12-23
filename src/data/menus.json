@@ -1,15 +1,15 @@
 {
   "main": [
     {
+      "identifier": "officers",
+      "title": "Our Officers",
+      "url": "/our-officers"
+    },
+    {
       "identifier": "layouts",
       "title": "Page Layouts",
       "url": "#",
       "weight": 2
-    },
-    {
-      "identifier": "officers",
-      "title": "Our Officers",
-      "url": "/our-officers"
     }
   ],
   "layouts": [
