@@ -1,9 +1,11 @@
 ---
 title: IBM
-subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
+subtitle: >-
+  For more than a century. *IBM* has been dedicated to every client's success
+  and to creating innovations that matter for the world.
 excerpt: >-
-  Lorem ipsum dolor sit amet interdum arcu pulvinar lorem ipsum sed feugiat
-  etiam sed magna adipiscing.
+  For more than a century. *IBM* has been dedicated to every client's success
+  and to creating innovations that matter for the world.
 content_img:
   enabled: true
   path: images/pic10.jpg
