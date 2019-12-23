@@ -14,10 +14,9 @@ contact_methods:
   methods_col1:
     - icon: fa-map-marker
       text: |-
-        Untitled Corp  
-        1234 Fictional Road  
-        Suite 5432  
-        Nashville, TN 00000
+        800 W Cambell Rd  
+        Suite 21
+        Richardson, TX 75080
       title: Address
       type: contact_with_text
   methods_col2:
