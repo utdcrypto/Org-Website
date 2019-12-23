@@ -1,5 +1,5 @@
 ---
-title: Amet Lorem Tempus
+title: MouseBelt
 subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
 excerpt: >-
   Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a
