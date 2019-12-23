@@ -8,7 +8,7 @@ content_img:
   enabled: true
   path: images/pic10.jpg
   url: '#'
-alt_img: images/pic05.jpg
+alt_img: /images/github-mark.png
 sidebar:
   enabled: false
   side: left
