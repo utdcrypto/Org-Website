@@ -10,7 +10,7 @@ content_img:
   enabled: true
   path: images/pic10.jpg
   url: '#'
-alt_img: images/pic04.jpg
+alt_img: /images/logo.svg
 sidebar:
   enabled: false
   side: left
