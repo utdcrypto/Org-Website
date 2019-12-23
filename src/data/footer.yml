@@ -25,7 +25,7 @@ contact_methods:
       title: Phone
       type: contact_with_text
     - icon: fa-envelope-o
-      text: information@untitled.tld
+      text: utd.bcso@gmail.com
       title: Email
       type: contact_with_link
       url: '#'
