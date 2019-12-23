@@ -8,7 +8,7 @@ content_img:
   enabled: true
   path: images/pic10.jpg
   url: '#'
-alt_img: /images/download-1-.png
+alt_img: /images/ju6nbiw.jpg
 sidebar:
   enabled: false
   side: left
