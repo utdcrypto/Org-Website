@@ -3,7 +3,7 @@ title: Home
 banner:
   actions:
     - is_huge: true
-      is_primary: true
+      is_primary: false
       is_scrolly: false
       label: Join Our Discord
       url: 'https://discord.gg/A4vzfg5'
