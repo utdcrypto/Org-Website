@@ -1,9 +1,12 @@
 ---
 title: Code Authority
-subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
+subtitle: >-
+  They are a Microsoft-certified software development firm that provides custom
+  software development services to businesses in Dallas, Texas and nationwide.
 excerpt: >-
-  Lorem ipsum dolor sit amet interdum arcu pulvinar lorem ipsum sed feugiat
-  etiam sed magna adipiscing.
+  Code Authority is a Microsoft-certified software development firm that
+  provides custom software development services to businesses in Dallas, Texas
+  and nationwide.
 content_img:
   enabled: true
   path: images/pic10.jpg
