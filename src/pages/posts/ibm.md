@@ -1,9 +1,7 @@
 ---
 title: MouseBelt
-subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
-excerpt: >-
-  Lorem ipsum dolor sit amet interdum arcu pulvinar lorem ipsum sed feugiat
-  etiam sed magna adipiscing.
+subtitle: The only full-service blockchain accelerator and startup studio in the world
+excerpt: The only full-service blockchain accelerator and startup studio in the world
 content_img:
   enabled: true
   path: images/pic10.jpg
