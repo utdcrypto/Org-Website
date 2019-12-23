@@ -53,8 +53,8 @@ sections:
   - actions:
       - is_primary: false
         is_scrolly: false
-        label: How it works
-        url: /contact
+        label: Join the newsletter
+        url: 'https://forms.gle/wywo6vFU1siSbnpa6'
     component: Cta
     section_id: cta
     text: >-
