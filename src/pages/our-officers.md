@@ -1,8 +1,8 @@
 ---
-title: Our Officers
+title: Officers
 content_img:
   enabled: false
-  url: /officers
+  url: '#'
 sidebar:
   enabled: false
   side: left
