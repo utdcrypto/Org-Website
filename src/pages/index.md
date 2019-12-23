@@ -39,10 +39,10 @@ sections:
           style: style2
         title: The Emerging Technology Hackathon
       - description: >-
-          Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-          Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
-          ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet
-          consectetur. Morbi libero orci, consectetur in odio maximus felis.
+          Generally we run four workshops every semester in partnership with
+          industry leaders and companies in the ecosystem. We focus on teaching
+          practical skills and understanding of blockchain technology and
+          applications from both a technical and business perspective.
         icon:
           enabled: true
           icon: fa-cube
