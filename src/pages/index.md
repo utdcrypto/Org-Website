@@ -70,7 +70,7 @@ sections:
     section_id: posts
     subtitle: >-
       Here's a list of some of the companies that we've partnered with in the
-      past
+      past and what they do
     title: Companies We've Worked With
     type: posts
 menus:
