@@ -58,12 +58,9 @@ sections:
     component: Cta
     section_id: cta
     text: >-
-      Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus. Phasellus
-      lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
-      sed tempus sagittis lorem feugiat. In fringilla diet consectetur. Morbi
-      libero orci, consectetur in odio maximus felis. Lorem ipsum ullamcorper
-      laoreet, lectus arcu pulvinar lorem ipsum interdum sed tempus sagittis
-      lorem feugiat. In fringilla diet consectetur.
+      Join our newsletter to get notified of all the great things going on! We
+      will notify you of events, job opportunities and other great opportunities
+      available to our members!
     title: Sign Up To Our Newsletter To Get Updated
     type: cta
   - component: Posts
