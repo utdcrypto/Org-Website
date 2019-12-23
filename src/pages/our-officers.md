@@ -1,5 +1,5 @@
 ---
-title: Officers
+title: Our Officers
 content_img:
   enabled: false
   url: '#'
