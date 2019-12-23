@@ -1,9 +1,11 @@
 ---
 title: Shardus
-subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
+subtitle: >-
+  Shardus is building distributed ledger software to remedy the problems of
+  traditional blockchains -- scalability, decentralization and efficiency.
 excerpt: >-
-  Lorem ipsum dolor sit amet interdum arcu pulvinar lorem ipsum sed feugiat
-  etiam sed magna adipiscing.
+  Shardus is building distributed ledger software to remedy the problems of
+  traditional blockchains -- scalability, decentralization and efficiency.
 content_img:
   enabled: true
   path: images/pic10.jpg
