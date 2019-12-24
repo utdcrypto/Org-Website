@@ -42,7 +42,9 @@ sections:
           Generally we run four workshops every semester in partnership with
           industry leaders and companies in the ecosystem. We focus on teaching
           practical skills and understanding of blockchain technology and
-          applications from both a technical and business perspective.
+          applications from both a technical and business perspective. [Sign
+          up](https://forms.gle/wywo6vFU1siSbnpa6) to our newsletter to be
+          notified when and where our events are being held
         icon:
           enabled: true
           icon: fa-cube
