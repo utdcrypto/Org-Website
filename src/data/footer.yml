@@ -28,7 +28,7 @@ contact_methods:
       text: utd.bcso@gmail.com
       title: Email
       type: contact_with_link
-      url: '#'
+      url: 'mailto:utd.bcso@gmail.com'
 copyright:
   enabled: true
   text: '&copy; UTD Blockchain. All rights reserved.'
