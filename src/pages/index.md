@@ -60,10 +60,8 @@ sections:
     text: >-
       Join our newsletter to get notified of all the great things going on! We
       will notify you of events, job opportunities and other great opportunities
-      available to our members! Generally we run four workshops every semester
-      in partnership with industry leaders. And we send our email for projects
-      and job opportunities that our partners are opening for students and
-      graduates.
+      available to our members! We send out emails for projects and job
+      opportunities that our partners are opening for students and graduates.
     title: Sign Up To Our Newsletter To Get Updated
     type: cta
   - component: Posts
