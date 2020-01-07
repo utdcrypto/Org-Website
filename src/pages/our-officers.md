@@ -2,10 +2,9 @@
 title: Our Officers
 content_img:
   enabled: false
-  url: '#'
+  url: "#"
 sidebar:
   enabled: false
   side: left
-template: page
+template: elements
 ---
-
