@@ -5,8 +5,8 @@ excerpt: The only full-service blockchain accelerator and startup studio in the 
 content_img:
   enabled: true
   path: images/pic10.jpg
-  url: "#"
-alt_img: images/pic03.jpg
+  url: '#'
+alt_img: /images/0.png
 sidebar:
   enabled: false
   side: left
@@ -14,7 +14,6 @@ date: 2019-12-23T20:51:32.117Z
 show_in_home_posts: true
 show_in_sidebar: false
 template: page
-url: https://mousebelt.university/
 ---
 
 ### Dolore Amet Consequat
