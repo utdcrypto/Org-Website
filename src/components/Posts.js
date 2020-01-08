@@ -36,7 +36,7 @@ export default class Posts extends React.Component {
                     <h3>{_.get(post, "frontmatter.title")}</h3>
                     {markdownify(_.get(post, "frontmatter.excerpt"))}
                     <Link
-                      to={safePrefix(_.get("https://www.google.com", "url"))}
+                      to={safePrefix(_.get(post, "url"))}
                       className="button"
                     >
                       More
