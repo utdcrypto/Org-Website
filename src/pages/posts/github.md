@@ -2,7 +2,7 @@
 title: Github
 subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
 excerpt: >-
-  GitHub supports a community where more than 40 million*people learn, share,
+  GitHub supports a community where more than 40 million people learn, share,
   and work together to build software.
 content_img:
   enabled: true
