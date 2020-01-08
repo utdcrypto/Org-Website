@@ -7,14 +7,15 @@ excerpt: >-
 content_img:
   enabled: true
   path: images/pic10.jpg
-  url: '#'
+  url: "#"
 alt_img: /images/github-mark.png
 sidebar:
   enabled: false
   side: left
-date: '2017-04-04'
+date: "2017-04-04"
 show_in_home_posts: true
 show_in_sidebar: false
+url: https://github.com/about
 template: page
 ---
 

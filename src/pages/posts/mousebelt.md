@@ -5,7 +5,7 @@ excerpt: The only full-service blockchain accelerator and startup studio in the 
 content_img:
   enabled: true
   path: images/pic10.jpg
-  url: '#'
+  url: "#"
 alt_img: /images/0.png
 sidebar:
   enabled: false
@@ -13,6 +13,7 @@ sidebar:
 date: 2019-12-23T20:51:32.117Z
 show_in_home_posts: true
 show_in_sidebar: false
+url: https://mousebelt.university/
 template: page
 ---
 

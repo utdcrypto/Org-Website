@@ -7,14 +7,15 @@ excerpt: >-
 content_img:
   enabled: true
   path: images/pic10.jpg
-  url: '#'
+  url: "#"
 alt_img: /images/download-3-.png
 sidebar:
   enabled: false
   side: left
-date: '2017-04-05'
+date: "2017-04-05"
 show_in_home_posts: true
 show_in_sidebar: false
+url: https://www.toyota.com/usa/
 template: page
 ---
 
