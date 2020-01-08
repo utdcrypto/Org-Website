@@ -1,5 +1,5 @@
 ---
-title: Events
+title: Upcoming Events
 content_img:
   enabled: false
   url: "#"
