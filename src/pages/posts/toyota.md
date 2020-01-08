@@ -2,20 +2,19 @@
 title: Toyota
 subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
 excerpt: >-
-  Lorem ipsum dolor sit amet interdum arcu pulvinar lorem ipsum sed feugiat
-  etiam sed magna adipiscing.
+  10 plants. 1,500 dealerships. 137,000 dedicated U.S. employees. 25 million
+  vehicles built in the U.S. and counting.
 content_img:
   enabled: true
   path: images/pic10.jpg
-  url: "#"
+  url: '#'
 alt_img: /images/download-3-.png
 sidebar:
   enabled: false
   side: left
-date: "2017-04-05"
+date: '2017-04-05'
 show_in_home_posts: true
 show_in_sidebar: false
-url: https://www.toyota.com/usa/
 template: page
 ---
 
