@@ -584,10 +584,10 @@ collections:
             default: home
   - name: page
     label: Pages
-    folder: src/pages/
+    folder: src/pages
     create: true
     extension: md
-    slug: '{{slug}}'
+    slug: "{{slug}}"
     fields:
       - widget: string
         name: title
@@ -619,7 +619,7 @@ collections:
             name: url
             label: URL
             required: false
-            default: '#'
+            default: "#"
             hint: The URL used in the image hyperlink
       - widget: object
         name: sidebar
@@ -762,7 +762,7 @@ collections:
     folder: src/pages/posts
     create: true
     extension: md
-    slug: '{{slug}}'
+    slug: "{{slug}}"
     fields:
       - widget: string
         name: title
@@ -799,7 +799,7 @@ collections:
             name: url
             label: URL
             required: false
-            default: '#'
+            default: "#"
             hint: The URL used in the image hyperlink
       - widget: image
         name: alt_img
