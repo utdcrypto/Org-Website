@@ -4,6 +4,11 @@
       "identifier": "officers",
       "title": "Our Officers",
       "url": "/our-officers"
+    },
+    {
+      "identifier": "events",
+      "title": "Upcoming Events",
+      "url": "/events"
     }
   ],
   "layouts": [],

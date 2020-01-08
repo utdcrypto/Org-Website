@@ -1,5 +1,5 @@
 ---
-title: Our Officers
+title: Events
 content_img:
   enabled: false
   url: "#"
