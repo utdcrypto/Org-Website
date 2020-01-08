@@ -45,7 +45,7 @@ export default class Posts extends React.Component {
                         className="button"
                         target="_blank"
                       >
-                        More
+                        Learn More
                       </Link>
                     </div>
                   </section>
