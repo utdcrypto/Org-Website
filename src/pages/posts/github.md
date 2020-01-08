@@ -2,20 +2,19 @@
 title: Github
 subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
 excerpt: >-
-  Lorem ipsum dolor sit amet interdum arcu pulvinar lorem ipsum sed feugiat
-  etiam sed magna adipiscing.
+  GitHub supports a community where more than 40 million*people learn, share,
+  and work together to build software.
 content_img:
   enabled: true
   path: images/pic10.jpg
-  url: "#"
+  url: '#'
 alt_img: /images/github-mark.png
 sidebar:
   enabled: false
   side: left
-date: "2017-04-04"
+date: '2017-04-04'
 show_in_home_posts: true
 show_in_sidebar: false
-url: https://github.com/about
 template: page
 ---
 
