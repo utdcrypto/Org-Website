@@ -22,28 +22,34 @@ export default class Posts extends React.Component {
                 "frontmatter.date",
                 "desc"
               ),
-              (post, post_idx) => (
-                <section key={post_idx} className="post">
-                  {_.get(post, "frontmatter.alt_img") && (
-                    <Link to={safePrefix(_.get(post, "url"))} className="image">
-                      <img
-                        src={safePrefix(_.get(post, "frontmatter.alt_img"))}
-                        alt=""
-                      />
-                    </Link>
-                  )}
-                  <div className="content">
-                    <h3>{_.get(post, "frontmatter.title")}</h3>
-                    {markdownify(_.get(post, "frontmatter.excerpt"))}
-                    <Link
-                      to={safePrefix(_.get(post, "url"))}
-                      className="button"
-                    >
-                      More
-                    </Link>
-                  </div>
-                </section>
-              )
+              (post, post_idx) => {
+                console.log(post);
+                return (
+                  <section key={post_idx} className="post">
+                    {_.get(post, "frontmatter.alt_img") && (
+                      <Link
+                        to={safePrefix(_.get(post, "url"))}
+                        className="image"
+                      >
+                        <img
+                          src={safePrefix(_.get(post, "frontmatter.alt_img"))}
+                          alt=""
+                        />
+                      </Link>
+                    )}
+                    <div className="content">
+                      <h3>{_.get(post, "frontmatter.title")}</h3>
+                      {markdownify(_.get(post, "frontmatter.excerpt"))}
+                      <Link
+                        to={safePrefix(_.get(post, "url"))}
+                        className="button"
+                      >
+                        More
+                      </Link>
+                    </div>
+                  </section>
+                );
+              }
             )}
           </div>
         </div>
