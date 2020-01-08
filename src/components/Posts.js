@@ -43,7 +43,7 @@ export default class Posts extends React.Component {
                       <Link
                         to={safePrefix(_.get(post, "url"))}
                         className="button"
-                        href="_blank"
+                        target="_blank"
                       >
                         More
                       </Link>
