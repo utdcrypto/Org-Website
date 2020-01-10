@@ -6,5 +6,12 @@ content_img:
 sidebar:
   enabled: false
   side: left
-template: page
+officers:
+  - name: Luis D. Osta
+    position: President
+  - name: Rachana Kataram
+    position: Chief of Operations
+  - name: Aneesh Saripalli
+    position: VP of Technology
+template: officers
 ---
