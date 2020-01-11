@@ -978,7 +978,7 @@ collections:
             hint: The text displayed below the page title
           - widget: list
             name: officers
-            label: Officer List
+            label: Officer
             required: true
             hint: List of officers that are part of the organization
             fields:
