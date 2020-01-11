@@ -1002,12 +1002,7 @@ collections:
                 label: Social Medias
                 required: false
                 hint: List of the social medias the officer wants to be professionally associated with
-                fields:
-                  - widget: string
-                    name: socialURL
-                    label: Social Media
-                    required: true
-                    hint: The url to your social media profile
+                default: [""]
           - widget: object
             name: menus
             label: Elements Menus
