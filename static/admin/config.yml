@@ -983,7 +983,7 @@ collections:
             hint: List of officers that are part of the organization
             fields:
               - widget: string
-                name: officer name
+                name: name
                 label: Officer Name
                 required: true
                 hint: >-
@@ -994,7 +994,7 @@ collections:
                 required: true
                 hint: The title of the position that the officer holds in the organization
               - widget: string
-                name: url
+                name: profileURL
                 label: Profile Picture URL
                 required: true
                 hint: The URL to the professional profile picture of the officer
