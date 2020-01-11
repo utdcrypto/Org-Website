@@ -30,7 +30,7 @@ export default class Posts extends React.Component {
                   return (
                     <SocialIcon
                       url={social}
-                      style={{ width: "30px", height: "30px" }}
+                      style={{ width: "30px", height: "30px", marginRight: 5 }}
                     ></SocialIcon>
                   );
                 })}
