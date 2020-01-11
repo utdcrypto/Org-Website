@@ -11,6 +11,9 @@ officers:
   - name: Luis D. Osta
     position: President
     profileURL: https://media-exp2.licdn.com/dms/image/C4E03AQGpzRRRXckHvw/profile-displayphoto-shrink_200_200/0?e=1583971200&v=beta&t=s2E8VA1K4_L0IMVd0T-qnmgsJIywskfWsJRwaIFnDkU
+    social:
+      - https://www.linkedin.com/in/luis-osta/
+      - https://github.com/LuisOsta
   - name: Rachana Kataram
     position: Chief of Operations
     profileURL: https://media-exp2.licdn.com/dms/image/C4E03AQHB7bCpN-KE4w/profile-displayphoto-shrink_200_200/0?e=1583971200&v=beta&t=YxV3LtoeiMaxpPrdk_VVHD_tGTe4v1Ho6cxLrJB3m-k
@@ -26,7 +29,7 @@ officers:
   - name: Brenden Duderstadt
     position: Technology Officer
     profileURL: https://media-exp2.licdn.com/dms/image/C4E03AQFGsGsBXRP_XA/profile-displayphoto-shrink_200_200/0?e=1583971200&v=beta&t=hwOfryvMtU_gLMU6DbAH-izbu1OPictocyWd7kR2e30
-  - name: Daniel O.
+  - name: Daniel O
     position: Social Media Officer
     profileURL: https://media-exp2.licdn.com/dms/image/C4E03AQExvDWHwWejnA/profile-displayphoto-shrink_200_200/0?e=1583971200&v=beta&t=HVR81GbMb96DaIKdYJdoB0AGL87p4pgIgIvcWi9phok
   - name: Aditi Jain

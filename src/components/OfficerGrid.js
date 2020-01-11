@@ -1,7 +1,8 @@
 import React from "react";
 import _ from "lodash";
+import { SocialIcon } from "react-social-icons";
 
-import { markdownify, getPages, Link, safePrefix } from "../utils";
+import { Link } from "../utils";
 
 export default class Posts extends React.Component {
   render() {
@@ -9,6 +10,7 @@ export default class Posts extends React.Component {
     return (
       <section id={_.get(this.props, "section.section_id")} className="posts">
         {officersToDisplay.map((officer, index) => {
+          const { social: socialLinks = [] } = officer;
           return (
             <div
               className="post"
@@ -21,8 +23,18 @@ export default class Posts extends React.Component {
                   alt={`${officer.name} Professional Headshot`}
                 ></img>
               </Link>
-              <h3>{officer.name}</h3>
-              <p>{officer.position}</p>
+              <h3 style={{ marginBottom: 0 }}>{officer.name}</h3>
+              <p style={{ marginBottom: 10 }}>{officer.position}</p>
+              <div>
+                {socialLinks.map(social => {
+                  return (
+                    <SocialIcon
+                      url={social}
+                      style={{ width: "30px", height: "30px" }}
+                    ></SocialIcon>
+                  );
+                })}
+              </div>
             </div>
           );
         })}

@@ -1,20 +1,12 @@
 import React from "react";
 import _ from "lodash";
-
 import { Layout, OfficersGrid } from "../components/index";
-import {
-  markdownify,
-  Link,
-  toUrl,
-  safePrefix,
-  htmlToReact,
-  getPages
-} from "../utils";
+import { markdownify } from "../utils";
 
 export default class OurOfficers extends React.Component {
   render() {
     const officersToDisplay = this.props.pageContext.frontmatter.officers;
-    console.log(this.props)
+    console.log(this.props);
     return (
       <Layout {...this.props}>
         <section
