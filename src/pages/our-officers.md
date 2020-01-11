@@ -29,7 +29,7 @@ officers:
   - name: Brenden Duderstadt
     position: Technology Officer
     profileURL: >-
-      https://media-exp2.licdn.com/dms/image/C4E03AQFGsGsBXRP_XA/profile-displayphoto-shrink_200_200/0?e=1583971200&v=beta&t=hwOfryvMtU_gLMU6DbAH-izbu1OPictocyWd7kR2e30
+      https://media-exp2.licdn.com/dms/image/C4E03AQHu2JgVwqCFig/profile-displayphoto-shrink_200_200/0?e=1583971200&v=beta&t=x8UdRPWyoa4K65-oM9CCImAVFI5TxjgHfmQJ9bcPUkE
   - name: Daniel O
     position: Social Media Officer
     profileURL: >-
