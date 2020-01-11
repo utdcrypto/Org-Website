@@ -1006,7 +1006,7 @@ collections:
                   - widget: string
                     name: socialURL
                     label: Social Media
-                    required: false
+                    required: true
                     hint: The url to your social media profile
           - widget: object
             name: menus
