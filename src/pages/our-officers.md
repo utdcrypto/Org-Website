@@ -28,7 +28,7 @@ officers:
     profileURL: https://media-exp2.licdn.com/dms/image/C4E03AQFGsGsBXRP_XA/profile-displayphoto-shrink_200_200/0?e=1583971200&v=beta&t=hwOfryvMtU_gLMU6DbAH-izbu1OPictocyWd7kR2e30
   - name: Daniel O.
     position: Social Media Officer
-    profileURL:
+    profileURL: https://media-exp2.licdn.com/dms/image/C4E03AQExvDWHwWejnA/profile-displayphoto-shrink_200_200/0?e=1583971200&v=beta&t=HVR81GbMb96DaIKdYJdoB0AGL87p4pgIgIvcWi9phok
   - name: Aditi Jain
     position: Public Relations Officer
     profileURL: https://media-exp2.licdn.com/dms/image/C4E03AQHiqRGq0JTlIg/profile-displayphoto-shrink_200_200/0?e=1583971200&v=beta&t=FH-yL5RI3rLFP0mwxcbRCqFmt1tGexhpho-K2uxgbV8
