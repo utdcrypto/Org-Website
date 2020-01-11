@@ -962,9 +962,9 @@ collections:
   - name: elements
     label: Elements
     files:
-      - name: elements
-        label: Elements
-        file: src/pages/elements.md
+      - name: officers
+        label: Officers
+        file: src/pages/our-officers.md
         fields:
           - widget: string
             name: title
@@ -1082,7 +1082,7 @@ collections:
             name: template
             label: Template
             required: true
-            default: elements
+            default: officers
   - name: site_menus
     label: Site Menus
     files:
