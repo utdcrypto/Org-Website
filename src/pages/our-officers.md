@@ -19,7 +19,7 @@ officers:
     profileURL: >-
       https://media-exp2.licdn.com/dms/image/C4E03AQGlN_dHU13ixw/profile-displayphoto-shrink_200_200/0?e=1583971200&v=beta&t=_z0sOaIXFvkkCv_5R8GpV2Cc8rcqLytlacUDQMqZtFw
   - name: Arshdeep Singh
-    position: Director of Surge
+    position: Director of UTD Surge
     profileURL: >-
       https://media-exp2.licdn.com/dms/image/C4E03AQEa1wzMdO92gA/profile-displayphoto-shrink_200_200/0?e=1583971200&v=beta&t=d3KPb1uRI9RXK-IAn2zFJFT9kRwAyPk9PYk1qTET2iM
   - name: Milan Gulati
