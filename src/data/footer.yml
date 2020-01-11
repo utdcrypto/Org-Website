@@ -3,7 +3,7 @@ about:
     - is_primary: false
       is_scrolly: false
       label: Learn More
-      url: /no-sidebar
+      url: /events
   enabled: true
   text: >-
     We connect and train you with industry professionals and technical workshops
