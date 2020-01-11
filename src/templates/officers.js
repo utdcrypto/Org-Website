@@ -14,7 +14,7 @@ import {
 export default class OurOfficers extends React.Component {
   render() {
     const officersToDisplay = this.props.pageContext.frontmatter.officers;
-    console.log(officersToDisplay);
+    console.log(this.props)
     return (
       <Layout {...this.props}>
         <section
@@ -34,7 +34,7 @@ export default class OurOfficers extends React.Component {
                 _.get(this.props, "pageContext.frontmatter.subtitle")
               )}
             </header>
-            <OfficersGrid></OfficersGrid>
+            <OfficersGrid officersToDisplay={officersToDisplay}></OfficersGrid>
           </div>
         </section>
       </Layout>

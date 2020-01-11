@@ -23,7 +23,6 @@ export default class Posts extends React.Component {
                 "desc"
               ),
               (post, post_idx) => {
-                console.log(post);
                 return (
                   <section key={post_idx} className="post">
                     {_.get(post, "frontmatter.alt_img") && (
