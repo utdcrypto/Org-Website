@@ -5,7 +5,7 @@ officers:
   - name: Luis D. Osta
     position: President
     profileURL: >-
-      https://media-exp2.licdn.com/dms/image/C4E03AQGpzRRRXckHvw/profile-displayphoto-shrink_200_200/0?e=1583971200&v=beta&t=s2E8VA1K4_L0IMVd0T-qnmgsJIywskfWsJRwaIFnDkU
+      https://media-exp1.licdn.com/dms/image/C4E03AQHTnkM8_9XhdA/profile-displayphoto-shrink_200_200/0?e=1587600000&v=beta&t=Jaj4ccHZTh8QjwAge2CoJPGhnj5uxOKKVZ-ep-Spb4Q
     social:
       - 'https://www.linkedin.com/in/luis-osta/'
       - 'https://github.com/LuisOsta'
