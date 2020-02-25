@@ -43,7 +43,8 @@ officers:
     profileURL: >-
       https://media-exp1.licdn.com/dms/image/C4E03AQGpqdYaTYLlww/profile-displayphoto-shrink_200_200/0?e=1588204800&v=beta&t=-_J5JkoPb5jp2_j25d7xOmQ7g7GYNuQEmIQMFr7kXjs
     social:
-      - ''
+      - 'https://www.linkedin.com/in/amerdin/'
+      - www.instagram.com/amerdtx
 template: officers
 ---
 
