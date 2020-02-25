@@ -38,6 +38,12 @@ officers:
     position: Public Relations Officer
     profileURL: >-
       https://media-exp2.licdn.com/dms/image/C4E03AQHiqRGq0JTlIg/profile-displayphoto-shrink_200_200/0?e=1583971200&v=beta&t=FH-yL5RI3rLFP0mwxcbRCqFmt1tGexhpho-K2uxgbV8
+  - name: Amer Din
+    position: Technology Officer
+    profileURL: >-
+      https://media-exp1.licdn.com/dms/image/C4E03AQGpqdYaTYLlww/profile-displayphoto-shrink_200_200/0?e=1588204800&v=beta&t=-_J5JkoPb5jp2_j25d7xOmQ7g7GYNuQEmIQMFr7kXjs
+    social:
+      - ''
 template: officers
 ---
 
