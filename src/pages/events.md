@@ -7,6 +7,6 @@ content_img:
 sidebar:
   enabled: false
   side: left
-template: page
+template: events
 ---
 
