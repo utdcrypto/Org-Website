@@ -975,9 +975,8 @@ collections:
           - widget: markdown
             name: subtitle
             label: Page Subtitle
-            required: false
+            required: true
             hint: The text displayed below the page title
-
   - name: officers
     label: Officers
     files:
