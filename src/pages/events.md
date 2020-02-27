@@ -1,6 +1,5 @@
 ---
 title: Future Events
-subtitle:
-template: events
+subtitle: Here are the events
 ---
 
