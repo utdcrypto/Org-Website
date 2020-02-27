@@ -962,6 +962,10 @@ collections:
 
   - name: events
     label: Events
+    files:
+      - name: events
+        label: Events
+        file: src/pages/events.md
   - name: officers
     label: Officers
     files:
