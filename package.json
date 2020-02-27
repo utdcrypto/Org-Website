@@ -30,6 +30,7 @@
     "react-html-parser": "^2.0.2",
     "react-script-tag": "^1.1.2",
     "react-social-icons": "^4.1.0",
+    "react-vertical-timeline-component": "^2.5.0",
     "rehype-react": "^3.0.2",
     "sprintf-js": "^1.1.2"
   }
