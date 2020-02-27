@@ -966,6 +966,12 @@ collections:
       - name: events
         label: Events
         file: src/pages/events.md
+        fields:
+          - widget: string
+            name: title
+            label: Page Title
+            required: true
+            hint: The text displayed at the top of the page
   - name: officers
     label: Officers
     files:
