@@ -972,6 +972,11 @@ collections:
             label: Page Title
             required: true
             hint: The text displayed at the top of the page
+            - widget: markdown
+            name: subtitle
+            label: Page Subtitle
+            required: false
+            hint: The text displayed below the page title
   - name: officers
     label: Officers
     files:
