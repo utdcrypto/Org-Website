@@ -959,6 +959,9 @@ collections:
     filter:
       field: template
       value: page
+
+  - name: events
+    label: Events
   - name: officers
     label: Officers
     files:
