@@ -1084,7 +1084,6 @@ collections:
             label: Template
             required: true
             default: events
-  -
         
   - name: officers
     label: Officers
