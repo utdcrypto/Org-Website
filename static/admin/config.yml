@@ -977,6 +977,8 @@ collections:
             label: Page Subtitle
             required: true
             hint: The text displayed below the page title
+          - widget: hidden
+        
   - name: officers
     label: Officers
     files:
