@@ -977,33 +977,6 @@ collections:
             label: Page Subtitle
             required: false
             hint: The text displayed below the page title
-          - widget: list
-            name: events
-            label: Event
-            required: true
-            hint: List of officers that are part of the organization
-            fields:
-              - widget: string
-                name: name
-                label: Officer Name
-                required: true
-                hint: The name of the given officer
-              - widget: string
-                name: position
-                label: Position
-                required: true
-                hint: The title of the position that the officer holds in the organization
-              - widget: string
-                name: profileURL
-                label: Profile Picture URL
-                required: true
-                hint: The URL to the professional profile picture of the officer
-              - widget: list
-                name: social
-                label: Social Medias
-                required: false
-                hint: List of the social medias the officer wants to be professionally associated with
-                default: [""]
           - widget: object
             name: menus
             label: Elements Menus
