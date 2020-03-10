@@ -28,7 +28,7 @@ export default class OurOfficers extends React.Component {
             <header className="major">
               <h2>{_.get(this.props, "pageContext.frontmatter.title")}</h2>
               {markdownify(
-                _.get(this.props, "pageC<ontext.frontmatter.subtitle")
+                _.get(this.props, "pageContext.frontmatter.subtitle")
               )}
             </header>
           </div>
