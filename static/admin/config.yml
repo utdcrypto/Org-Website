@@ -961,10 +961,10 @@ collections:
       value: page
 
   - name: events
-    label: Events
+    label: Event
     files:
       - name: events
-        label: Events
+        label: Event
         file: src/pages/events.md
         fields:
           - widget: string
@@ -975,9 +975,143 @@ collections:
           - widget: markdown
             name: subtitle
             label: Page Subtitle
-            required: true
+            required: false
             hint: The text displayed below the page title
+          - widget: list
+            name: events
+            label: Event
+            required: true
+            hint: List of officers that are part of the organization
+            fields:
+              - widget: string
+                name: name
+                label: Officer Name
+                required: true
+                hint: The name of the given officer
+              - widget: string
+                name: position
+                label: Position
+                required: true
+                hint: The title of the position that the officer holds in the organization
+              - widget: string
+                name: profileURL
+                label: Profile Picture URL
+                required: true
+                hint: The URL to the professional profile picture of the officer
+              - widget: list
+                name: social
+                label: Social Medias
+                required: false
+                hint: List of the social medias the officer wants to be professionally associated with
+                default: [""]
+          - widget: object
+            name: menus
+            label: Elements Menus
+            required: false
+            hint: Which menus should this page show up in
+            fields:
+              - widget: object
+                name: main
+                label: Main menu item
+                required: false
+                hint: Main menu item for this page
+                fields:
+                  - widget: string
+                    name: title
+                    label: Title
+                    required: false
+                    hint: The title of the menu item
+                  - widget: number
+                    name: weight
+                    label: Weight
+                    required: false
+                    hint: Position for sorting
+                    valueType: int
+                  - widget: string
+                    name: identifier
+                    label: Identifier
+                    required: false
+                    hint: >-
+                      The identifier of a menu item could be used as a parent
+                      menu of another menu item
+              - widget: object
+                name: layouts
+                label: Layouts menu item
+                required: false
+                hint: Layouts menu item for this page
+                fields:
+                  - widget: string
+                    name: title
+                    label: Title
+                    required: false
+                    hint: The title of the menu item
+                  - widget: number
+                    name: weight
+                    label: Weight
+                    required: false
+                    hint: Position for sorting
+                    valueType: int
+                  - widget: string
+                    name: identifier
+                    label: Identifier
+                    required: false
+                    hint: >-
+                      The identifier of a menu item could be used as a parent
+                      menu of another menu item
+              - widget: object
+                name: submenu
+                label: Submenu menu item
+                required: false
+                hint: Submenu menu item for this page
+                fields:
+                  - widget: string
+                    name: title
+                    label: Title
+                    required: false
+                    hint: The title of the menu item
+                  - widget: number
+                    name: weight
+                    label: Weight
+                    required: false
+                    hint: Position for sorting
+                    valueType: int
+                  - widget: string
+                    name: identifier
+                    label: Identifier
+                    required: false
+                    hint: >-
+                      The identifier of a menu item could be used as a parent
+                      menu of another menu item
+              - widget: object
+                name: footer
+                label: Footer menu item
+                required: false
+                hint: Footer menu item for this page
+                fields:
+                  - widget: string
+                    name: title
+                    label: Title
+                    required: false
+                    hint: The title of the menu item
+                  - widget: number
+                    name: weight
+                    label: Weight
+                    required: false
+                    hint: Position for sorting
+                    valueType: int
+                  - widget: string
+                    name: identifier
+                    label: Identifier
+                    required: false
+                    hint: >-
+                      The identifier of a menu item could be used as a parent
+                      menu of another menu item
           - widget: hidden
+            name: template
+            label: Template
+            required: true
+            default: events
+  -
         
   - name: officers
     label: Officers
